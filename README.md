@@ -53,7 +53,5 @@ Seorang pelajar antusias yang sedang mengeksplorasi dunia pemrograman! Saya foku
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Finsiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎵 Currently Vibing To
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]([https://open.spotify.com/user/Finsii](https://open.spotify.com/user/31i4scdojvhoeywphgncc5gw3zki?si=b74802581e9143fe))
 
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=Finsiii&icon=0&color=0)](https://visitcount.itsvg.in)
