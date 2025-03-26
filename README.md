@@ -8,9 +8,6 @@ Seorang pelajar antusias yang sedang mengeksplorasi dunia pemrograman! Saya foku
 
 ## 🌐 Connect With Me:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:finsiahay@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ## 💻 Tech Stack:
 ### Languages
