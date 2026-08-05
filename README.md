@@ -1,50 +1,215 @@
-# 💫 About Me:
-Seorang pelajar antusias yang sedang mengeksplorasi dunia pemrograman! Saya fokus pada teknologi web dan sedang dalam perjalanan belajar pemrograman.
+<div align="center">
 
-## 🚀 Passion & Goals
-- 🌐 Mengembangkan keterampilan pengembangan web yang kuat
-- 💡 Tertarik dengan teknologi full-stack dan inovasi digital
-- 🔍 Selalu haus akan pengetahuan baru dalam dunia pemrograman
+<img src="./assets/finnsyde-hero.svg" width="100%" alt="Finnsyde animated developer banner">
 
-## 🌐 Connect With Me:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:finsiahay@gmail.com) 
+<br>
 
-## 💻 Tech Stack:
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<a href="#-developer-profile">PROFILE</a>
+  •   <a href="#-technology-stack">STACK</a>
+  •   <a href="#-currently-exploring">LEARNING</a>
+  •   <a href="#-github-activity">ACTIVITY</a>
+  •   <a href="#-contact">CONTACT</a>
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### Cloud & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+<br>
 
-### Databases
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## `> developer.profile`
 
-### Tools & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+```typescript
+const finnsyde = {
+    identity: {
+        name: "Alfino Raditya",
+        alias: "Finnsyde",
+        role: "Student Developer",
+        location: "Indonesia"
+    },
 
-## 🏆 Achievements & Contributions
-- 🌟 Open Source Contributor
-- 📚 Continuous Learner
-- 🤝 Passionate about Collaboration
+    focus: [
+        "Web Development",
+        "Mobile Development",
+        "Backend Engineering",
+        "Cybersecurity",
+        "Reverse Engineering"
+    ],
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Finsiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Finsiii&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Finsiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    currentMission: {
+        learning: "How modern software works internally",
+        building: "Useful, secure and meaningful digital products",
+        improving: "One project and one mistake at a time"
+    },
 
-## 🎵 Currently Vibing To
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)]([https://open.spotify.com/user/Finsii](https://open.spotify.com/user/31i4scdojvhoeywphgncc5gw3zki?si=b74802581e9143fe))
+    mindset: "Build it. Break it. Understand it. Improve it."
+} satisfies DeveloperProfile;
+```
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge\&labelColor=09090B)
+![Learning](https://img.shields.io/badge/MODE-CONTINUOUS_LEARNING-A855F7?style=for-the-badge\&labelColor=09090B)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-READY-EC4899?style=for-the-badge\&labelColor=09090B)
+
+</div>
+
+<br>
+
+## `> technology.stack`
+
+<div align="center">
+
+### Core Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,php,html,css&theme=dark" alt="Core programming languages">
+
+<br><br>
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,vite&theme=dark" alt="Frontend technologies">
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,npm,mysql,firebase&theme=dark" alt="Backend and database technologies">
+
+<br><br>
+
+### Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,azure,digitalocean&theme=dark" alt="Cloud and deployment platforms">
+
+<br><br>
+
+### Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" alt="Development tools">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> currently.exploring`
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### `01`
+
+**Full-Stack Development**
+
+Menghubungkan frontend, backend, database, authentication, dan deployment menjadi satu aplikasi utuh.
+
+</td>
+<td align="center" width="33%">
+
+### `02`
+
+**Application Security**
+
+Memahami vulnerability, secure coding, authentication flow, dan cara kerja sistem dari perspektif keamanan.
+
+</td>
+<td align="center" width="33%">
+
+### `03`
+
+**Reverse Engineering**
+
+Menganalisis struktur aplikasi dan memahami bagaimana software bekerja di balik antarmukanya.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```console
+finsiii@github:~$ cat current_objectives.txt
+
+[01] Build more complete web applications
+[02] Improve backend and database architecture
+[03] Learn secure software development
+[04] Explore mobile application development
+[05] Understand systems through reverse engineering
+[06] Contribute to meaningful open-source projects
+
+finnsyde@github:~$ █
+```
+
+<br>
+</div>
+
+<sub>
+GitHub statistics menunjukkan aktivitas repository publik dan tidak selalu mewakili keseluruhan kemampuan teknis.
+</sub>
+
+<br><br>
+
+## `> development.philosophy`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Curiosity drives exploration.                              │
+│   Practice transforms knowledge into skill.                  │
+│   Failure exposes what documentation cannot explain.         │
+│   Consistency turns small progress into real capability.     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### `BUILD → TEST → BREAK → DEBUG → LEARN → REPEAT`
+
+</div>
+
+<br>
+
+## `> contact`
+
+<div align="center">
+
+<a href="mailto:finsiahay@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FINSIAHAY%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090B" alt="Email">
+</a>
+
+<a href="https://github.com/finnsyde">
+<img src="https://img.shields.io/badge/GITHUB-FINNSYDE-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=09090B" alt="GitHub">
+</a>
+
+<br><br>
+
+```text
+connection_status: OPEN
+collaboration_mode: ENABLED
+response_protocol: HUMAN
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=finnsyde&label=PROFILE+VISITORS&color=7C3AED&style=flat-square" alt="Profile visitor counter">
+
+<br><br>
+
+**Thanks for entering my development environment.**
+
+`System ready. New ideas are welcome.`
+
+</div>
