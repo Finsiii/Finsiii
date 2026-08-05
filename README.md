@@ -187,7 +187,7 @@ GitHub statistics menunjukkan aktivitas repository publik dan tidak selalu mewak
 <div align="center">
 
 <a href="mailto:finsiahay@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FINSIAHAY%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090B" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%40ZEROBITS.TECH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090B" alt="Email">
 </a>
 
 <a href="https://github.com/finsiii">
