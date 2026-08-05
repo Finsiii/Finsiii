@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/finsiii-hero.svg" width="100%" alt="Finsiii animated developer banner">
+<img src="./hero.svg" width="100%" alt="Finsiii animated developer banner">
 
 <br>
 
