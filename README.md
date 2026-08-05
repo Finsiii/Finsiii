@@ -155,10 +155,6 @@ finsiii@github:~$ █
 <br>
 </div>
 
-<sub>
-GitHub statistics menunjukkan aktivitas repository publik dan tidak selalu mewakili keseluruhan kemampuan teknis.
-</sub>
-
 <br><br>
 
 ## `> development.philosophy`
