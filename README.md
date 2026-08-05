@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/finnsyde-hero.svg" width="100%" alt="Finnsyde animated developer banner">
+<img src="./assets/finsiii-hero.svg" width="100%" alt="Finsiii animated developer banner">
 
 <br>
 
@@ -17,10 +17,10 @@
 ## `> developer.profile`
 
 ```typescript
-const finnsyde = {
+const finsiii = {
     identity: {
         name: "Alfino Raditya",
-        alias: "Finnsyde",
+        alias: "Finsiii",
         role: "Student Developer",
         location: "Indonesia"
     },
@@ -149,7 +149,7 @@ finsiii@github:~$ cat current_objectives.txt
 [05] Understand systems through reverse engineering
 [06] Contribute to meaningful open-source projects
 
-finnsyde@github:~$ █
+finsiii@github:~$ █
 ```
 
 <br>
@@ -190,8 +190,8 @@ GitHub statistics menunjukkan aktivitas repository publik dan tidak selalu mewak
 <img src="https://img.shields.io/badge/EMAIL-FINSIAHAY%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090B" alt="Email">
 </a>
 
-<a href="https://github.com/finnsyde">
-<img src="https://img.shields.io/badge/GITHUB-FINNSYDE-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=09090B" alt="GitHub">
+<a href="https://github.com/finsiii">
+<img src="https://img.shields.io/badge/GITHUB-FINSIII-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=09090B" alt="GitHub">
 </a>
 
 <br><br>
@@ -204,7 +204,7 @@ response_protocol: HUMAN
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=finnsyde&label=PROFILE+VISITORS&color=7C3AED&style=flat-square" alt="Profile visitor counter">
+<img src="https://komarev.com/ghpvc/?username=finsiii&label=PROFILE+VISITORS&color=7C3AED&style=flat-square" alt="Profile visitor counter">
 
 <br><br>
 
