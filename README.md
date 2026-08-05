@@ -198,10 +198,6 @@ collaboration_mode: ENABLED
 response_protocol: HUMAN
 ```
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=finsiii&label=PROFILE+VISITORS&color=7C3AED&style=flat-square" alt="Profile visitor counter">
-
 <br><br>
 
 **Thanks for entering my development environment.**
