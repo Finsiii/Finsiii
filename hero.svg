@@ -495,7 +495,7 @@ aria-labelledby="title description"
     </text>
 
     <text
-        x="80"
+        x="66"
         y="217"
         class="mono"
         fill="#CBD5E1"
@@ -507,7 +507,7 @@ aria-labelledby="title description"
 
     <rect
         class="cursor"
-        x="445"
+        x="470"
         y="201"
         width="10"
         height="20"
